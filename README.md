@@ -3,5 +3,6 @@
 * The numbers on  both the dices changes differently.
 
 #Images
-![Screenshot_20210720-195231](https://user-images.githubusercontent.com/86222915/126341508-d01c3cf9-ad2b-4283-a5a5-69db9b02ba71.png)
+
+<img src="https://user-images.githubusercontent.com/86222915/126341508-d01c3cf9-ad2b-4283-a5a5-69db9b02ba71.png"  height="600">
 
